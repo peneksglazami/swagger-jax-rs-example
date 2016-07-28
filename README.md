@@ -1,5 +1,6 @@
 # swagger-jax-rs-example
 
+[![Build Status](https://travis-ci.org/peneksglazami/swagger-jax-rs-example.svg?branch=master)](https://travis-ci.org/peneksglazami/swagger-jax-rs-example)
 [![](https://img.shields.io/badge/License-Apache%202-blue.svg)](LICENSE)
 
 Example of using Swagger for definition of REST API of JAX-RS based application.
