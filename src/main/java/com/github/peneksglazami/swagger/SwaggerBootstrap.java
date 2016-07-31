@@ -36,7 +36,6 @@ public class SwaggerBootstrap extends HttpServlet {
         beanConfig.setTitle("swagger-jax-rs-example");
         beanConfig.setDescription("Example of using Swagger for definition REST API of JAX-RS based application");
         beanConfig.setVersion("2.0");
-        beanConfig.setSchemes(new String[]{"http"});
         beanConfig.setBasePath("/api");
         beanConfig.setResourcePackage("com.github.peneksglazami.resources.v1,com.github.peneksglazami.resources.v2");
         beanConfig.setScan(true);
